@@ -1,6 +1,6 @@
 # Proffy-mobile
 Project using technologies such as react, nodejs, react native. <br/>
-Web project in another repository.
+Web project in another repository: https://github.com/alessonsousa/Proffy-web <br/>
 
 commands using the project:<br/>
 expo init mobile<br/>
