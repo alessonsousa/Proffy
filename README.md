@@ -1,5 +1,6 @@
 # Proffy-mobile
-Project using technologies such as react, nodejs, react native. Web project in another repository.
+Project using technologies such as react, nodejs, react native. Web project in another repository.<br/>
+Web project in another repository.
 
 commands using the project:<br/>
 expo init mobile<br/>
@@ -10,4 +11,10 @@ yarn add @ react-navigation / native<br/><br/>
 
 To generate the Apk:<br/>
 expo build: android -t apk<br/>
-look at the expo documentation https://docs.expo.io/
+look at the expo documentation https://docs.expo.io/<br/>
+
+commands used on the server
+yarn init -y <br/>
+yarn add typescript -D<br/>
+yarn tsc --init<br/>
+yarn add ts-node-dev -D<br/>
