@@ -1,9 +1,9 @@
 <p align="center">
    <img src="./.github/logo.png" alt="Proffy" width="280"/>
 </p>
-
-> :rocket: Project made to connect teachers to students, made in Next Level Week #2 @Rocketseat
-
+<p align="center">
+ Project made to connect teachers to students
+</p>
 <p align="center">
     <a href="README.md">English</a>
     ·
@@ -46,9 +46,9 @@
 
 # :eyes: Demo Website
 You can acess the website at:     
-👉  demo: https://proffy-rafa.netlify.app/ 
+👉  demo: https://alessonsousa.github.io/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://app.netlify.com/sites/proffy-rafa/deploys)      
+
 
 
 # :computer: Technologies
@@ -67,7 +67,7 @@ This project was made using the follow technologies:
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
+$ git clone https://github.com/alessonsousa/Proffy.git
 ```
 ### 📦 Run API
 
@@ -127,7 +127,7 @@ Check out the [contributing](./CONTRIBUTING.md) page to see the best places to f
 
 Released in 2020 :closed_book: License
 
-Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB) 🚀.
+Made with love by [Alesson Sousa](https://github.com/alessonsousa) 🚀.
 This project is under the [MIT license](./LICENSE).
 
 
